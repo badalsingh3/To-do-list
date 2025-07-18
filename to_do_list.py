@@ -1,7 +1,7 @@
 import os
 
 # File path constant
-TODO_FILE = r"C:\Users\sbada\OneDrive\Documents\python_practise\simple_projects\to_do_list\To_do_list.txt"
+TODO_FILE = r"https://github.com/badalsingh3/To-do-list/blob/main/To_do_list.txt"
 
 # Load tasks from file at startup
 tasks = {}
